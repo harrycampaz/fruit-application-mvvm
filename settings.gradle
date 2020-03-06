@@ -1,0 +1,2 @@
+rootProject.name='FluitApplication'
+include ':app'
